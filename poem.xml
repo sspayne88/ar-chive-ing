@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" >
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>We Real Cool</title>
+        <author>
+          <persName>Gwendolyn Brooks</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Estate of Gwendolyn Brookes</publisher>
+        <availability>
+          <ab>© 1963 by Gwendolyn Brooks</ab>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+Gwendolyn Brooks, “We Real Cool” from Selected Poems.
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+<lg xmlns="http://www.tei-c.org/ns/1.0" type="poem">		
+<lg type="stanza">
+<l>The Pool Players.</l>
+<l>Seven at the Golden Shovel.</l>
+</lg>
+<lg type="stanza">
+<l>We real cool. We.</l>
+<l>Left school. We</l>
+</lg>
+<lg type="stanza">
+<l>Lurk late. We</l>
+<l>Strike straight. We</l>
+</lg>
+<lg type="stanza">
+<l>Sing sin. We</l>
+<l>Thin gin. We</l>
+</lg>
+<lg type="stanza">
+<l>Jazz June. We</l>
+<l>Die soon.</l>
+</lg>
+</lg>
+    </body>
+  </text>
+</TEI>
